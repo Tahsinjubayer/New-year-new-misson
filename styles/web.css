@@ -1,0 +1,110 @@
+body{
+font-family: 'Open Sans', sans-serif;
+}
+nav {
+    display: flex;
+    text-align: center;
+    background-color: aliceblue;
+}
+.profile pic{
+    width: 1320px;
+height: 600px;
+background: linear-gradient(180deg, #05000d 0%, rgba(0, 0, 1, 0) 100%);
+}
+.pra{
+    text-align: center;
+    color: azure;
+    position: absolute;
+    top: 100px;
+    padding: 100px 200px 500px 350px;
+    font-size: 40px;
+}
+.new{color: #FFF;
+    position: absolute;
+    font-family: Merriweather;
+    top: 100px;
+    padding: 100px 100px 100px 259px;
+font-size: 100px;
+
+}
+.num{text-align: center;
+color: red;
+font-size: 80px;
+}
+.holi{text-align: center;
+color: red;
+padding-bottom: 3px;
+
+}
+.cat{text-align: center;
+font-size: 50px;
+padding-bottom: 5px;
+margin-top: 3px ;}
+.re{padding: 100px 100px 200px 300px;
+}
+.card{background-image: url('resources/Group 70.png');}
+.but{text-align: center;
+    background-color: rgb(240, 238, 235);
+margin: 30px 50px
+;padding: 10px 50px;
+}
+span{color: #F00;}
+.col{background-color:  #F00;
+}
+.circle1{height: 400px;
+    width: 400px;
+    border: 5px solid black;
+    border-radius: 5000px;
+    
+}
+.circle1{border-radius: 420px;}
+.h{width: 140px;
+    height: 140px;
+    flex-shrink: 0;}
+.all{display: flex;}
+.sale{
+text-align: center;
+font-family: Merriweather;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.gift{
+   max-width: 120px;
+    padding-left: 10px;
+}
+.git{
+    display: flex;
+}
+.the{color: #F00;font-size: medium;}
+.Our{color: #070211;
+    font-family: Merriweather;
+    margin-top: 0px;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    }
+.sit{width: 620px;}
+.image-row{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: auto;
+}
+.image{width: 30px;
+height: auto;}
+.email{text-align: center;}
+.sub{text-align: center;}
+.amet{text-align: center;}
+.Subscribe{ text-align: center;
+color: #FFF;
+background-color: #F00;
+border: 1px solid;
+padding-left:;
+}
+.user{text-align: center;
+font;}
+.lastf{}
+.soci{text-align: center;}
+.end{display: flex;}
+.un{background-color: black;color:whitesmoke}
